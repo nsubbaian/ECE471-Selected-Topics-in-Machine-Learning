@@ -37,16 +37,21 @@ Professor Curro's Website: http://ee.cooper.edu/~curro/cgml/
 * A Style-Based Generator Architecture for Generative Adversarial Networks, https://arxiv.org/abs/1812.04948
 ### Week 9:
 * A Neural Algorithm of Artistic Style, https://arxiv.org/abs/1508.06576
-* 
-* 
-* 
-* 
+* A LEARNED REPRESENTATION FOR ARTISTIC STYLE, https://arxiv.org/abs/1610.07629
+* Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization, https://arxiv.org/pdf/1703.06868.pdf
+* A Flexible Convolutional Solver with Application to Photorealistic Style Transfer, https://arxiv.org/abs/1806.05285
+* Learning Linear Transformations for Fast Arbitrary Style Transfer, https://arxiv.org/abs/1808.04537
 ### Week 10:
-* 
-* 
+* A Brief Survey of Deep Reinforcement Learning, https://arxiv.org/abs/1708.05866v2 
 ### Week 11:
-* 
-* 
+* WAVENET: A GENERATIVE MODEL FOR RAW AUDIO, https://arxiv.org/abs/1609.03499
+* Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders, https://arxiv.org/abs/1704.01279
+* HIERARCHICAL GENERATIVE MODELING FOR CONTROLLABLE SPEECH SYNTHESIS, https://arxiv.org/abs/1810.07217
+* FFTNET: A REAL-TIME SPEAKER-DEPENDENT NEURAL VOCODER, https://gfx.cs.princeton.edu/pubs/Jin_2018_FAR/fftnet-jin2018.pdf
+* WAVEGLOW: A FLOW-BASED GENERATIVE NETWORK FOR SPEECH SYNTHESIS, https://arxiv.org/abs/1811.00002v1
 ### Week 12:
-* 
-* 
+* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, https://arxiv.org/abs/1905.11946
+* Self-training with Noisy Student improves ImageNet classification, https://arxiv.org/abs/1911.04252
+* UNSUPERVISED DATA AUGMENTATION FOR CONSISTENCY TRAINING, https://arxiv.org/abs/1904.12848v4
+* MixMatch: A Holistic Approach to Semi-Supervised Learning, https://arxiv.org/abs/1905.02249
+
