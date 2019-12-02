@@ -1,6 +1,10 @@
 # ECE471-Selected-Topics-in-Machine-Learning
 Professor Curro's Website: http://ee.cooper.edu/~curro/cgml/
 
+# Submissions
+Four Assignments - respective folder contains assignment and submission
+Midterm Project - reimplement an existing research paper
+Final Project - improve on existing research
 
 # Weekly Reading/Discussion based on the following papers:
 ### Week 1:
