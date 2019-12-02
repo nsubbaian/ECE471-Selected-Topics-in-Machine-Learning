@@ -9,7 +9,7 @@ Stochastic Gradient Descent Tricks, https://arxiv.org/abs/1502.05767v4
 ### Week 2:
 ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION, https://arxiv.org/abs/1412.6980 \
 Why Momentum Really Works, https://distill.pub/2017/momentum/
-## Week 3:
+### Week 3:
 Going deeper with convolutions, https://arxiv.org/abs/1409.4842 \
 Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, https://arxiv.org/abs/1502.01852 \
 Identity Mappings in Deep Residual Networks, https://arxiv.org/pdf/1603.05027.pdf
@@ -22,12 +22,22 @@ SQUEEZENET: ALEXNET-LEVEL ACCURACY WITH 50X FEWER PARAMETERS AND <0.5MB MODEL SI
 Densely Connected Convolutional Networks, https://arxiv.org/abs/1608.06993 \
 MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, https://arxiv.org/abs/1704.04861
 ### Week 6:
-
+Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, https://arxiv.org/abs/1703.03400 \
+UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION, https://arxiv.org/abs/1611.03530 \
+METRIC LEARNING WITH ADAPTIVE DENSITY DISCRIMINATION, https://arxiv.org/abs/1511.05939
 ### Week 7:
-
+Learning with Random Learning Rates, https://arxiv.org/abs/1810.01322 \
+DON’T DECAY THE LEARNING RATE, INCREASE THE BATCH SIZE, https://arxiv.org/abs/1711.00489 \
+A DISCIPLINED APPROACH TO NEURAL NETWORK HYPER-PARAMETERS: PART 1 – LEARNING RATE, BATCH SIZE, MOMENTUM, AND WEIGHT DECAY, https://arxiv.org/abs/1803.09820
 ### Week 8:
-
+Improved Training of Wasserstein GANs, https://arxiv.org/abs/1704.00028 \
+PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION, https://arxiv.org/abs/1710.10196 \
+Self-Attention Generative Adversarial Networks, https://arxiv.org/abs/1805.08318v1 \
+LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS, https://arxiv.org/abs/1809.11096 \
+A Style-Based Generator Architecture for Generative Adversarial Networks, https://arxiv.org/abs/1812.04948
 ### Week 9:
+A Neural Algorithm of Artistic Style, https://arxiv.org/abs/1508.06576 \
+
 
 ### Week 10:
 
