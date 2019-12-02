@@ -4,8 +4,8 @@ Professor Curro's Website: http://ee.cooper.edu/~curro/cgml/
 
 # Weekly Reading/Discussion based on the following papers:
 ### Week 1:
-Automatic Differentiation in Machine Learning: a Survey, https://arxiv.org/abs/1502.05767 \
-Stochastic Gradient Descent Tricks, https://arxiv.org/abs/1502.05767v4
+*Automatic Differentiation in Machine Learning: a Survey, https://arxiv.org/abs/1502.05767 \
+*Stochastic Gradient Descent Tricks, https://arxiv.org/abs/1502.05767v4
 ### Week 2:
 ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION, https://arxiv.org/abs/1412.6980 \
 Why Momentum Really Works, https://distill.pub/2017/momentum/
